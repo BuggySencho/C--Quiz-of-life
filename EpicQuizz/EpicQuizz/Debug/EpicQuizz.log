@@ -1,0 +1,7 @@
+﻿  EpicQuizz.cpp
+C:\Users\ianar\source\repos\EpicQuizz\EpicQuizz\EpicQuizz.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ianar\source\repos\EpicQuizz\EpicQuizz\EpicQuizz.cpp(109,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ianar\source\repos\EpicQuizz\EpicQuizz\EpicQuizz.cpp(170,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ianar\source\repos\EpicQuizz\EpicQuizz\EpicQuizz.cpp(231,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ianar\source\repos\EpicQuizz\EpicQuizz\EpicQuizz.cpp(292,21): warning C4018: '<': signed/unsigned mismatch
+  EpicQuizz.vcxproj -> C:\Users\ianar\source\repos\EpicQuizz\Debug\EpicQuizz.exe
